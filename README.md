@@ -1,2 +1,2 @@
 # ps2-bankmod
-Sample replacement tool for PS2 soundbanks
+Extracts and replaces samples within PlayStation 2 .HD/.BD banks.
